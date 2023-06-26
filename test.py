@@ -1,2 +1,2 @@
 def fun():
-    print("hi, L'avion c'est mieux!")
+    print("Vivre avec confiance et positivite!")
