@@ -1,2 +1,2 @@
 def fun():
-    print("hi, c'est moi la VOITURE")
+    print("hi, L'avion c'est mieux!")
