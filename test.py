@@ -1,2 +1,2 @@
 def fun():
-    print("les oioseax sont jolie")
+    print("le voyage en bateau")
